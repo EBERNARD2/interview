@@ -91,7 +91,6 @@ const compileFile = async() => {
       {id: 'ip', title: 'IP Address'},
       {id: 'country', title: 'Country'},
       {id: 'state', title: 'State'},
-      {id: 'userAgent', title: 'UserAgent'},
       {id: 'type', title: 'Type'},
       {id: 'name', title: 'Name'}
     ]
