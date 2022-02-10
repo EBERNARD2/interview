@@ -10,4 +10,4 @@
   the log.log file will be used to run program
 
 ## Warning
-*Geo2lite free API only accepts 1000 free requests per day. The log.log file contains 315 logs so you will only be able to run this tool 3 times at that volume. Adjust logs or provide smaller log file if you would like to use tool more often.
+*Geo2lite FREE API only accepts 1000 free requests per day per access token. The log.log file contains 315 logs so you will only be able to run this tool 3 times at that volume. Adjust logs or provide smaller log file if you would like to use tool more often.
