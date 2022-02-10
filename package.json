@@ -1,0 +1,27 @@
+{
+  "name": "interview",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@maxmind/geoip2-node": "^3.4.0",
+    "csv-writer": "^1.6.0",
+    "device-detector-js": "^3.0.1",
+    "express": "^4.17.2",
+    "geolite2": "^3.4.0",
+    "maxmind": "^1.3.0",
+    "reverse-geocode": "^1.3.3"
+  },
+  "geolite2": {
+    "license-key": "CPzgwxNABVJRcE81",
+    "selected-dbs": [
+      "City",
+      "Country"
+    ]
+  }
+}
